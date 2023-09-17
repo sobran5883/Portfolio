@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaHome,FaPhone,FaMailBulk, FaTwitter, FaLinkedin, FaGithub, FaInstagram} from "react-icons/fa"
+import {FaHome,FaPhone,FaMailBulk, FaLinkedin, FaGithub, FaInstagram} from "react-icons/fa"
 const Footer =()=>{
     return(
         <div className='footer'>
@@ -19,7 +19,7 @@ const Footer =()=>{
                     </div>
                     <div className='email'>
                         <h4>
-                            <FaMailBulk size={20} style={{color:"pink",marginRight:"2rem"}}/>sobran@gmail.com
+                            <FaMailBulk size={20} style={{color:"pink",marginRight:"2rem"}}/>sobran0621@gmail.com
                         </h4>
                     </div>
                 </div>
