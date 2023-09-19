@@ -1,13 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import img1 from "../assets/img2.jpg"
-import img2 from "../assets/img3.jpg"
+import img1 from "../assets/img7.jpg"
+import img2 from "../assets/img2.jpg"
 const AboutContent =()=>{
     return(
         <div className="about">
             <div className="left">
                 <h1>Who Am I?</h1>
-                <p>Im a react front-end developer and node back-end developer. I create responsive secure websites for improving my skills.</p>
+                <p>Hello there! I'm SOBRAN RAJAK, and I'm not your typical web developer. Hailing from BHEL Jhansi Uttarpradesh, I embark on this digital adventure with a degree in CSE-AI, but it was my insatiable curiosity and the endless possibilities of web development that truly captured my heart.</p>
+                  <p>I believe that web development is an art form, and I see myself as a digital artist crafting beautiful, user-friendly experiences. My passion for React.js and Node.js stems from their power to transform ideas into interactive realities. It's that 'aha' moment when a project comes together that keeps me addicted to the world of coding.</p>
                 <Link to="/contact"><button className="btn">Contact</button></Link>
             </div>
             <div className="right">
