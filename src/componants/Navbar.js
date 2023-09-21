@@ -24,6 +24,7 @@ const Navbar = ()=>{
                 <li><Link to="/project">Project</Link></li>
                 <li><Link to="/about">About</Link></li>
                 <li><Link to="/contact">Contact</Link></li>
+                <li><Link to="https://drive.google.com/file/d/1I5jzSSiFEK2putBvIB3qxm3CCGRQafUM/view?usp=sharing">Resume</Link></li>
             </ul>
             <div className='humburger' onClick={handleClick}>
                 {click ?(<FaTimes size={20} style={{color:"white"}}/>):(<FaBars size={20} style={{color:"white"}}/>)}
