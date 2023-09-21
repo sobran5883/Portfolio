@@ -26,7 +26,7 @@ const Footer =()=>{
             </div>
             <div className='right'>
                 <h4>About me</h4>
-                <p>"Hello, I'm SOBRAN RAJAK, a passionate web developer specializing in React.js and Node.js. With a strong foundation in front-end and back-end technologies, I craft interactive and dynamic web applications that not only look great but also deliver exceptional user experiences.</p>
+                <p>"Hello, I'm SOBRAN RAJAK, a passionate web developer specializing in React.js and Node.js.</p>
                 <div className='social'>
                     <a href='https://github.com/sobran5883'><FaGithub size={30} style={{color:'pink',marginRight:"1rem"}}/></a>
                     <a href='https://www.instagram.com/sobran5883/'><FaInstagram size={30} style={{ color: 'red',marginRight:"1rem"}}/></a>
